@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 
 Hi, I'm ZeffonWu, here is my [blog](https://www.yuque.com/zeffon/blog).
 
