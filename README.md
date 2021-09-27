@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-Hi, I'm Zeffon, here is my [blog](https://www.yuque.com/zeffon/blog){:target="_blank"} and [github pages](https://zeffon.github.io){:target="_blank"}.
+Hi, I'm Zeffon, here is my [blog](https://www.yuque.com/zeffon/blog) and [github pages](https://zeffon.github.io).
 
 ### ✍️ Languages
 
