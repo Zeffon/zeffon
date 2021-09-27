@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-Hi, I'm ZeffonWu, here is my [blog](https://www.yuque.com/zeffon/blog).
+Hi, I'm Zeffon, here is my [blog](https://www.yuque.com/zeffon/blog).
 
 ### ✍️ Languages
 
