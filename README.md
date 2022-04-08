@@ -12,7 +12,3 @@ Hi, I'm Zeffon, here is my [blog](https://www.yuque.com/zeffon/blog) and [github
 <code><img height="20" src="https://img.shields.io/badge/-Java-B07219?style=flat&logo=java"></code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeffon&layout=compact)
-
-### ❤️ GitHub Stats
-
-![Zeffon's github stats](https://github-readme-stats.vercel.app/api?username=Zeffon&show_icons=true)
