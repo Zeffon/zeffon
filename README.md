@@ -1,3 +1,9 @@
-### 👋 Hi there, I'm zeffon. Here is my <a href="https://www.yuque.com/zeffon/blog" target="_blank">note</a> and <a href="https://zeffon.github.io"  target="_blank">blog</a>.
+### 👋 Hi there, I'm zeffon.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeffon/zeffon/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeffon/zeffon/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zeffon/zeffon/output/github-contribution-grid-snake.svg">
+</picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeffon&layout=compact)
